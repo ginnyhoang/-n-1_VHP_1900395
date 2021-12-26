@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\bin\Debug\QLTP.exe.config
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\bin\Debug\QLTP.exe
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\bin\Debug\QLTP.pdb
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.Main.resources
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.Properties.Resources.resources
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.exe
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.pdb
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.QLLTP.resources
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.QLNC.resources
+C:\Users\ASUS\Documents\Đồ án 1\QLTP\QLTP\obj\Debug\QLTP.QLTP.resources
